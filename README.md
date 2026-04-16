@@ -4,7 +4,7 @@
 
 # Hola, Mi nombre es Roberto Antonio García 👋
 
-Soy docente de Desarrollo de Software en El Salvadro. Me enfoco en crear soluciones eficientes y aprender nuevas tecnologías cada día.
+Soy docente de Desarrollo de Software en El Salvador. Me enfoco en crear soluciones eficientes y aprender nuevas tecnologías cada día.
 
 ### 👤 Acerca de mi
 - 🎓 Docente de educación Media en el Instituto Nacional de Jucuapa.
