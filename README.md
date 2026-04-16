@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://tu-url-de-imagen.com/banner.png](https://drive.google.com/file/d/1oX-v8YvuRwrX9rMHer1EFR4JfZzBnW1f/view?usp=sharing)" alt="Banner" width="100%">
+  <img src="https://drive.google.com/file/d/1oX-v8YvuRwrX9rMHer1EFR4JfZzBnW1f/view?usp=sharing" alt="Banner" width="100%">
 </div>
 
 # Hola, Mi nombre es Roberto Antonio García 👋
